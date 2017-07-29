@@ -1,3 +1,5 @@
+# THIS DOC IS A WORK IN PROGRESS ...
+
 # QTUM Development for the Commonfolk
 
 QTUM is a new Blockchain platform that combines the stability of Bitcoin Core, with the creative freedom
