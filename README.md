@@ -17,12 +17,14 @@ Perhaps someday I will make a version for Ubuntu. I am following the guide poste
 I've written a bash script to take care of installation for you (assuming you're using OSX).
 I've ran this successfully on OSX 10.12.6. If you run into any issues, please fill out an issues tag. 
 
+Clone this repo, and then move the install script to wherever you'd like the qtum folder to be stored. 
 ```
+git clone https://github.com/ekivolowitz/QTUM-support.git
 chmod u+x installQtum.sh
 ./installQtum.sh
 ```
 
-If done correctly, you should see something like this at the end. 
+If everything works correctly, you should see something like this at the end. 
 ```
 ============================================================================
 # TOTAL: 1
