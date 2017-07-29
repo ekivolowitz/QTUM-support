@@ -44,7 +44,7 @@ make[1]: Nothing to be done for `check-am'.
 ```
 
 ## Authors
-* **Evan Kivolowitz
+* Evan Kivolowitz
 
 ## License
 * MIT LICENSE
