@@ -43,32 +43,12 @@ make[1]: Nothing to be done for `check'.
 make[1]: Nothing to be done for `check-am'.
 ```
 
-## Running the tests
-
-
-### Break down into end to end tests
-
-
-### And coding style tests
-
-
-## Deployment
-
-
-## Built With
-
-
-## Contributing
-
-
-## Versioning
-
-
 ## Authors
-
+* **Evan Kivolowitz
 
 ## License
-
+* MIT LICENSE
+* If you like what you see and want to donate, I'll be posting my address soon. Also, if you meet me some day, then you can buy me a beer if this guide helped you. This content will be free 
 
 ## Acknowledgments
 
