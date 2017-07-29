@@ -14,9 +14,8 @@ Perhaps someday I will make a version for Ubuntu. I am following the guide poste
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+I've written a bash script to take care of installation for you (assuming you're using OSX).
+I've ran this successfully on OSX 10.12.6. If you run into any issues, please fill out an issues tag. 
 
 ```
 chmod u+x installQtum.sh
